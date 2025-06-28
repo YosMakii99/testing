@@ -1,0 +1,71 @@
+.box{
+  
+    background-image: url(../img/background.png);
+  
+  
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    background: url(/img/background.png);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+
+
+
+.welcome {
+    margin: 3.5rem 0 0 0;
+    font-family: "'NintendoNTLG", sans-serif;
+    font-size: 2rem;
+    color: #41e93b;
+ display: block;
+ margin-top: -700px;
+ margin-left: 630px;
+  }
+
+.base {
+
+margin-top: 0px;
+margin-left: 300px;
+width: 1200px;
+
+}
+
+.word {
+    margin-top: 220px;
+    margin-left: 500px;
+    width: 750px;
+    display: block;
+    position: absolute;
+    }
+
+.texto {
+ margin-left: 400px;
+ width: 900px;
+
+
+}
+
+.next {
+margin-left: 1300px;
+margin-top: 360px;
+
+}
+
+.option {
+margin-top: -60;
+margin-left: 1450px;
+
+
+}
+
+
+.MiiverseSymbols-Regular {
+width: 250PX;
+margin-top: -60;
+margin-left: 1390px;
+}
