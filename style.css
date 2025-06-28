@@ -23,20 +23,20 @@
     font-size: 1.5rem;
     color: #41e93b;
  display: block;
- margin-top: -750px;
- margin-left: 630px;
-  }
+ margin-top: -630px;
+ margin-left: 600px;
+}
 
 .base {
 
-margin-top: 0px;
+margin-top: 100px;
 margin-left: 300px;
 width: 1200px;
 
 }
 
 .word {
-    margin-top: 220px;
+    margin-top: 207px;
     margin-left: 500px;
     width: 750px;
     display: block;
@@ -46,7 +46,7 @@ width: 1200px;
 .texto {
  margin-left: 400px;
  width: 900px;
-
+margin-top: 70px;
 
 }
 
