@@ -23,6 +23,7 @@
  display: block;
  margin-top: -630px;
  margin-left: 600px;
+ 
 }
 
 .base {
@@ -34,7 +35,7 @@ width: 1200px;
 }
 
 .word {
-    margin-top: 207px;
+    margin-top: 160px;
     margin-left: 500px;
     width: 750px;
     display: block;
