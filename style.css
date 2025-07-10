@@ -20,15 +20,14 @@
 .welcome {
     font-family: "'NintendoNTLG", sans-serif;
     color: #41e93b;
- display: block;
- margin-top: -630px;
- margin-left: 600px;
- 
+    text-align: center;
+    font-size: 3vw; /* se adapta al tamaño de pantalla */
+    margin-top: -630px;
 }
 
 .base {
 
-margin-top: 100px;
+margin-top: 60px;
 margin-left: 300px;
 width: 1200px;
 
